@@ -1,5 +1,5 @@
 # BCI for everyone
-## A subject-independent approach to EEG data
+## A subject-independent approach to EEG data analysis
 
 * **EDA notebook:** EEG data EDA and preprocessing using MNE and scipy libraries.
 
